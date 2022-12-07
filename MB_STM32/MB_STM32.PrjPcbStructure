@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Main_STM32F4.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=Main_STM32F4.SchDoc|Designator=U_IO_Pheripheral|SchDesignator=U_IO_Pheripheral|FileName=IO_Pheripheral.SchDoc|SheetNumber=2|SymbolType=Normal|RawFileName=IO_Pheripheral.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Main_STM32F4.SchDoc|Designator=U_STM32F4_MCU|SchDesignator=U_STM32F4_MCU|FileName=STM32F4_MCU.SchDoc|SheetNumber=3|SymbolType=Normal|RawFileName=STM32F4_MCU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

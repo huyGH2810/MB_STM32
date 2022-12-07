@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=R6-2
+Removed Pin From Net: NetName=GND Pin=R7-2
+Added Pin To Net: NetName=VDD Pin=R6-2
+Added Pin To Net: NetName=VDD Pin=R7-2
+Added Member To Class: ClassName=Main_STM32F4 Member=Component P2 Header-25x2
+Added Room: Name=Main_STM32F4
+Added Room: Name=U_IO_Pheripheral
+Added Room: Name=U_STM32F4_MCU
